@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 30,
+    "editor.hover.above": false,
+    "editor.hover.enabled": "off",
+    "markdown.validate.enabled": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.suppressInSnippetMode": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false
+}
